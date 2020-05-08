@@ -1,9 +1,5 @@
-# events-assisted
+# Virtual Conferences 
 👨‍🏫 A list of conferences I assisted.
-
-2020
-
-## Virtual Conferences
 
 * [Byteconf React 2020](https://www.bytesized.xyz/react-2020) - May 1-2, 2020
 
